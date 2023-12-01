@@ -1,0 +1,1 @@
+# get_charger_avail
